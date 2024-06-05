@@ -16,7 +16,7 @@ Le candidature sono sempre aperte al pubblico.
 ### B - Interferire con lo staff
 Lo staff ha un compito specifico, deve portarlo a termine. Se un moderatore stà avvisando o punendo un utente oppure gestendo una situazione di tensione non interferire, a seconda dei casi rischi un avviso o una sospensione o un ban se sei recidivo nel farlo.
 ## 3 - Comportamento Generale
-### a - Disturbo della quiete
+### A - Disturbo della quiete
 Qualsiasi azione che ha come obiettivo il disturbo della quiete verrà punita con una sospensione o un ban.
 Le azioni comprendono ma non sono limitate a:
 1. Spam
@@ -27,6 +27,7 @@ I contenuti ristretti includono nudità, sesso, violenza estrema e qualsiasi alt
 Viene considerato in questa categoria anche il suggerire o mostrare comportamenti dannosi.
 ### C - Parole Ristrette
 *Noi non vogliamo escludere i veneti dalla nostra comunità*.
+
 Dire volgarità è consentito, fino a che le altre regole sono rispettate, e fino a quando non si esagera.
 Non segnaleremo qui il limite dal quale si considera esagerazione, lasciamo la scelta all'individuo. In questo caso le punizioni possono variare a seconda della scelta del moderatore.
 ## 4 - I tuoi diritti
