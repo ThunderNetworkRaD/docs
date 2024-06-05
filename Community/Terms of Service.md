@@ -20,7 +20,7 @@ Questi termini sono applicati a tutti i servizi e le creazioni di Thunder Networ
 2. L'utente deve avere minimo 12 anni.
 3. Gli utenti che non raggiungono l'età indicata nel punto 2 devono avere l'approvazione di un genitore.
 4. Non abusare dei nostri servizi, ogni abuso verrà punito dai moderatori del servizio.
-5. Rispetta le [regole generali](Rules.md) e le regole specifiche del servizio
+5. Rispetta le [regole generali](Rules.md) e le regole specifiche del servizio.
 ## Modifiche
 - Possiamo modificare i termini di servizio quando vogliamo.
 - Quando aggiorneremo i termini avviseremo gli utenti tramite le nostre pagine e le nostre community e dove applicabile i nostri servizi.
