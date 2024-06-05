@@ -7,7 +7,7 @@ Il consiglio di amministrazione ha il potere decisionale su tutto (ad eccezione 
 Ha il dovere di cercare e scegliere una persona che funga da **proprietario** per ogni branca del gruppo.
 # Ruoli
 ## Grand Inquisitore
-I detentori di questo ruolo possono essere 3 o 5 (leggi [Veto su Veto](#Veto%20su%20Veto)).
+I detentori di questo ruolo possono essere 3 o 5 (leggi [Veto su veto](#Veto%20su%20veto)).
 Attualmente (05-06-2024) sono GI:
 - KillerBossOriginal
 - Strawdig530
