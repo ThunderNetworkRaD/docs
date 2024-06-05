@@ -16,7 +16,7 @@ Il suo compito è quello di coordinare tutti i gruppi e le branche in modo da cr
 ### Elezioni
 Ci sono 2 modi per far salire un GI al potere, tramite votazione del [Consiglio di Amministrazione](Consiglio%20di%20Amministrazione.md) (Max 1) o ~~tramite votazione pubblica (da parte di tutti gli utenti) (Max 1)~~ (#).
 I GI possono essere rimossi tramite votazione del [Consiglio di Amministrazione](Consiglio%20di%20Amministrazione.md), ~~quelli eletti anche dopo lo scadere del mandato~~ (#).
-> # sospeso per mancanza di staff.
+> #: sospeso per mancanza di staff.
 ### Potere nelle votazioni
 Nelle votazioni del [Consiglio di Amministrazione](Consiglio%20di%20Amministrazione.md) hanno peso di `1,5` punti/voto e hanno diritto di veto su ogni votazione (annullando completamente la votazione)
 #### Veto su veto
