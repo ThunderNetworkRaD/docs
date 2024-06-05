@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "b7576dc04f4954a5",
+    "id": "d5503e3a543a0b4f",
     "type": "split",
     "children": [
       {
-        "id": "1fff833658343b84",
+        "id": "3bf29979d98209f3",
         "type": "tabs",
         "children": [
           {
-            "id": "09acdf5b2afe80f7",
+            "id": "c21ff790ada153bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Community/Regolamento.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f62d0fd368350ad9",
+    "id": "4667aa6ef0aa7ee1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "690fb0e8de420e00",
+        "id": "eef903515b3f1f6e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "c264d464122cb10f",
+        "id": "87ccc865103b0413",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "537abf2e63cb9a00",
+        "id": "a15a6da8c4a47dfd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "9050592522123c8b",
+        "id": "421a482fa52cd41e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "88d9d8a610780c46",
+    "id": "b88fd604526ae866",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4291e513cc5883d2",
+        "id": "59bdd54450fbf3f9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Community/Regolamento.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "eec8d57cb2f110cd",
+        "id": "5ff3d0f8f72f862c",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Community/Regolamento.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b88081d68c7f6b06",
+        "id": "e8ee08cbade246f5",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Community/Regolamento.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,11 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09acdf5b2afe80f7",
-  "lastOpenFiles": [
-    "Community/Comunità.md",
-    "README.md",
-    "Community/Regolamento.md",
-    "Community"
-  ]
+  "active": "c21ff790ada153bc",
+  "lastOpenFiles": []
 }
