@@ -1,1 +1,2 @@
-[Regolamento](Regolamento.md)
+- [Regolamento](Regolamento.md)
+- [Consiglio di Amministrazione](Consiglio%20di%20Amministrazione.md)
