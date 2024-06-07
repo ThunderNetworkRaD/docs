@@ -8,7 +8,7 @@ Pensiamo che un buon regolamento sia sempre importante per non cadere nell'anarc
 2. Non in presenza del soggetto offeso, in caso di discriminazioni o razzismo
 	> Le offese verranno punite severamente come il moderatore ritiene opportuno.
 ### B - Propaganda
-La propaganda di qualsiasi tipo non è vietata. La nostra comunità non è e non vogliamo che sia un centro di arruolamento.
+La propaganda di qualsiasi tipo è vietata. La nostra comunità non è e non vogliamo che sia un centro di arruolamento.
 ## 2 - Comportamento con lo Staff
 ### A - Impersonificazione
 Non fare finta di essere un membro dello staff se non lo sei, un aiuto è sempre ben accetto, se vuoi aiutare i membri puoi farlo, ma ricordati di mantenere il tuo posto.
