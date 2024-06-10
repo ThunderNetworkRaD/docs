@@ -10,7 +10,7 @@ Questa licenza si applica a tutti i software prodotti e modificati da Thunder Ne
 - e tutti gli altri progetti di RaD
 ```
 TNL v1.0 License
-
+Work in Progress
 ```
 
 # Licenza Open-TNL v1.0
