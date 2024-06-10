@@ -1,3 +1,4 @@
+Ogni modifica a questo documento verrà annunciata e deve essere accettata da chiunque fornisca informazioni a Thunder Network.
 Prendiamo solo i dati richiesti dai nostri servizi per funzionare, essi includono ma non sono limitati a:
 1. Informazioni date dall'utente dentro forms e registrazioni:
     1. Nome utente

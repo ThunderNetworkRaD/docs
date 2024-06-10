@@ -1,3 +1,4 @@
+Ogni modifica a questo documento verrà annunciata e deve essere accettata a chiunque guadagni tramite Thunder Network.
 Questa è la politica dei pagamenti di ThunderNetwork.
 Questo documento viene applicato a tutti i progetti e i sotto-progetti.
 I progetti possono sovrascriverla.
