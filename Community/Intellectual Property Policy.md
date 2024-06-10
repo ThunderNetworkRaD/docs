@@ -15,7 +15,7 @@ Thunder Network License V1.0 - Private Content
 
 Definitions
 Owner: Who own this software or who commited it tho his developers (specified at the begin of this file)
-This software: Everything contained in this folder
+This content: Everything to which this license applies
 Creators: Who created the content
 
 You can't use, share or copy this content without the permission of the owner/s.
