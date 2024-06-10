@@ -4,7 +4,7 @@ Pensiamo che un buon regolamento sia sempre importante per non cadere nell'anarc
 ## 1 - Comportamento con gli altri utenti
 ### A - Offese, insulti e discriminazioni
 1. In presenza del soggetto offeso
-	> Le offese verranno punite se l'utente offeso lo richiede a un moderatore.
+	> Le offese verranno punite se l'utente offeso lo richiede a un moderatore o se quest'ultimo lo ritiene particolarmente grave.
 2. Non in presenza del soggetto offeso, in caso di discriminazioni o razzismo
 	> Le offese verranno punite severamente come il moderatore ritiene opportuno.
 ### B - Propaganda
