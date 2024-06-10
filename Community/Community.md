@@ -1,4 +1,5 @@
 - [Rules](Rules.md)
 - [AC](AC.md)
 - [Privacy Policy](Privacy%20Policy.md)
+- [Payment Policy](Payment%20Policy.md)
 - [Termini di Servizio](Terms%20of%20Service.md)
