@@ -30,7 +30,7 @@ Tuttavia saranno esclusi i contenuti trasmessi in:
 - "Join to Create"
 
 Noi non ci riserviamo diritti sul contenuto inviato, che è e rimane dell'utente, tuttavia i contenuti inviati sono considerati come ripubblicabili. 
-# Rimozione dei Contenuti
-L'utente potrà richieder la rimozione della pubblicazione dei contenuti.
+## Rimozione dei Contenuti
+L'utente potrà richieder la rimozione della pubblicazione dei contenuti, contattando un qualsiasi membro dello staff tramite ticket, commenti o messaggi diretti.
 
-La rimozione non verrà approvata nel caso i contenuti siano stati registrati in eventi e in tutti quei contesti in cui viene palesemente specificata la pubblicazione. In quest'ultimo caso infatti i contenuti sono considerati di nostra proprietà, e sta all'utente il non inviarli.
+La rimozione verrà valutata ma non verrà approvata nel caso i contenuti siano stati registrati in eventi e in tutti quei contesti in cui viene palesemente specificata la pubblicazione. In quest'ultimo caso infatti i contenuti sono considerati di nostra proprietà, e sta all'utente il non inviarli.
