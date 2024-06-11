@@ -12,6 +12,7 @@ Le dimissioni vanno richieste e vanno fatte accettare. Non seguendo la procedura
 Per richiedere le dimissioni basta mandare una copia compilata del testo riportato qui sotto ad un membro dell' AC o ad un suo delegato.
 ```
 Io <nome>, richiedo le dimissioni da <nome progetto> per ragione <ragione>.
+I miei incarichi e il mio ruolo verranno ceduti a <persona>.
 Sono al corrente che richiedendo le dimissioni i dati verranno trattati seguendo i regolamento, e i materiali da me creati rimarranno di proprità di Thunder Network, seguendo il regolamento scritto nella Copyright Policy, seguendo l'ultima versione delle licenze disponibili.
 ```
 Come `<nome progetto>` inserire uno dei seguenti:
@@ -20,3 +21,4 @@ Come `<nome progetto>` inserire uno dei seguenti:
 - `Minecraft`
 - `RaD`
 - `Entertainment`
+La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissioni non verranno accettate. La persona se accetta dovrà decidere se "prendere il ruolo assieme al suo" o "abbandonare il suo e prendere quello nuovo".
