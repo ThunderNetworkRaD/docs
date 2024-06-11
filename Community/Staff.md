@@ -23,3 +23,54 @@ Come `<nome progetto>` inserire uno dei seguenti:
 - `Entertainment`
 
 La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissioni non verranno accettate. La persona se accetta dovrà decidere se "prendere il ruolo assieme al suo" o "abbandonare il suo e prendere quello nuovo".
+# Ruoli
+# Gerarchia e descrizione dei ruoli
+## Ruoli condivisi tra le piattaforme
+- **AC** (Administration Council)
+> Chi prende le decisioni importanti.
+- **Grand Inquisitor**
+> Delegato che presiede l'AC
+- **Inquisitor**
+> Organo esecutivo, sotto il comando dei Grand Inquisitor e dell'AC e ne fa parte.
+> Ha un potere decisionale ridotto
+## Ruoli non condivisi tra le piattaforme
+### Community
+- **Proprietario** ("Owner")
+> Fa parte dell' <@&835429315008659476>
+> È il proprietario, con potere assoluto sulla piattaforma di cui è owner.
+- **Co-Proprietario** ("Co Owner")
+> Ha potere assoluto, ma ne risponde all'owner
+- **Supervisore** ("Supervisor")
+> Gestisce i manager e gli admin, aiuta Owner s e Co Owner.
+- **Manager**
+> Gestisce le entrate e le uscite dallo staff, gestisce i membri dello staff di livello inferiore.
+- **Amministratore** ("Admin")
+> Gestisce gli eventi, gli stage e le cose della community.
+- **Moderatore** ("Moderator")
+> Il compito è di moderare le chat, controllare che gli utenti non faccino qualcosa contro le regole.
+- **Aiutante** ("Helper")
+> Aiuta a mantenere attiva la chat, segnala ai moderatori le azioni illecite, aiuta il resto dello staff se richiesto.
+### Minecraft
+- **Capo dei Costruttori** ("Chief of Builders")
+> Gestisce le costruzioni e le rilascia poi per il pubblico. Assegna gli incarichi per i Builder.
+- **Costruttore** ("Builder") 
+> Costruisce.
+- **Capo degli Sviluppatori** ("Chief of Developers") 
+> Gestisce gli sviluppatori. Assegna gli incarichi per i Developer.
+- **Sviluppatore** ("Developer")  
+> Crea la logica.
+- **Moderazione** ("Moderation") 
+> Modera gli utenti.
+### Entertainment
+- **Supervisore** ("Supervisor")
+> Supervisiona e gestisce tutti i progetti di intrattenimento.
+- **Manager**
+> Gestisce i canali social.
+- **Animatore** ("Animator")
+> Crea le animazioni e video.
+- **Compositore di Musica** ("Music Composer") 
+> Crea la musica.
+- **Grafico** ("Graphic")
+> Crea grafiche e immagini.
+- **Partner Video** ("Video Partner")
+> E' un partner verificato, alcune sue creazioni vengono ripubblicate o ritrasmesse.
