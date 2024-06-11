@@ -29,5 +29,8 @@ Tuttavia saranno esclusi i contenuti trasmessi in:
 - Tickets
 - "Join to Create"
 
-Noi non ci riserviamo diritti sul contenuto inviato, che è e rimane dell'utente, tuttavia i contenuti inviati come ripubblicabili. L'utente potrà richiederne la rimozione della pubblicazione dei suddetti contenuti.
+Noi non ci riserviamo diritti sul contenuto inviato, che è e rimane dell'utente, tuttavia i contenuti inviati sono considerati come ripubblicabili. 
+# Rimozione dei Contenuti
+L'utente potrà richieder la rimozione della pubblicazione dei contenuti.
+
 La rimozione non verrà approvata nel caso i contenuti siano stati registrati in eventi e in tutti quei contesti in cui viene palesemente specificata la pubblicazione. In quest'ultimo caso infatti i contenuti sono considerati di nostra proprietà, e sta all'utente il non inviarli.
