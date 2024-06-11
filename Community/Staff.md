@@ -21,4 +21,5 @@ Come `<nome progetto>` inserire uno dei seguenti:
 - `Minecraft`
 - `RaD`
 - `Entertainment`
+
 La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissioni non verranno accettate. La persona se accetta dovrà decidere se "prendere il ruolo assieme al suo" o "abbandonare il suo e prendere quello nuovo".
