@@ -12,6 +12,7 @@ Attualmente (05-06-2024) sono GI:
 - KillerBossOriginal
 - Strawdig530
 - Lumel88
+
 Il suo compito è quello di coordinare tutti i gruppi e le branche in modo da creare un ecosistema che si sostenta da solo. Ha incarichi di gestione dello staff e dei bilanci, ha potere pressochè assoluto ma per le decisioni importanti deve fare riferimento all'[AC](AC.md).
 ### Elezioni
 Ci sono 2 modi per far salire un GI al potere, tramite votazione del [AC](AC.md) (Max 1) o ~~tramite votazione pubblica (da parte di tutti gli utenti) (Max 1)~~ (#).
