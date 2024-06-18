@@ -10,7 +10,7 @@ Questa licenza si applica a tutti i software prodotti e modificati da Thunder Ne
 - e tutti gli altri progetti di RaD
 ```
 TNL v1.0 License
-Owners: ThunderNetworkRaD - The Inquisitors, The Owners of Thunder Network
+Owners: ThunderNetwork - The Inquisitors, The Owners of Thunder Network
 Thunder Network License V1.0 - Private Content
 
 Definitions
