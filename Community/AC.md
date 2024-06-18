@@ -30,9 +30,9 @@ Gli inquisitori sono eletti esclusivamente tramite votazione del [AC](AC.md) e p
 ### Potere nelle votazioni
 Nelle votazioni del [AC](AC.md) hanno peso di `1,1` punti/voto.
 ## Proprietario
-Attualmente (05-06-2024) i proprietari sono:
-- Discord: Adriza
-- Minecraft: !Demon
+Attualmente (18/06/2024) i proprietari sono:
+- Discord: M1
+- Minecraft: PACIOCS
 - Roblox: Steoo
 - RaD: Bl4ckdestinyXX
 - Entertainment: Da trovare
