@@ -26,6 +26,7 @@ Il proprietario in carica di tutto il progetto ha il diritto di bloccare le vota
 ## Inquisitore
 Attualmente (05-06-2024) sono inquisitori:
 - Simone
+
 Il suo compito è di aiutare il [Grand Inquisitore](#Grand%20Inquisitore) a far collaborare le branche e i gruppi, fare report sul loro funzionamento.
 ### Elezioni
 Gli inquisitori sono eletti esclusivamente tramite votazione del [AC](AC.md) e possono essere rimossi tramite votazione o quando scade il mandato (se scelto all'inizio di esso dalla votazione).
