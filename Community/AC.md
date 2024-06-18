@@ -35,10 +35,10 @@ Gli inquisitori sono eletti esclusivamente tramite votazione del [AC](AC.md) e p
 Nelle votazioni del [AC](AC.md) hanno peso di `1,1` punti/voto.
 ## Proprietario
 Attualmente (18/06/2024) i proprietari sono:
-- Discord: M1
-- Minecraft: PACIOCS
-- Roblox: Steoo
+- Community: M1
 - RaD: Bl4ckdestinyXX
 - Entertainment: Scrafta
+- Minecraft: PACIOCS
+- Roblox: Steoo
 ### Potere nelle votazioni
 Nelle votazioni del [AC](AC.md) hanno peso di `1,0` punti/voto.
