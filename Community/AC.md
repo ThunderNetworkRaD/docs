@@ -22,7 +22,8 @@ I GI possono essere rimossi tramite votazione del [AC](AC.md), ~~quelli eletti a
 Nelle votazioni del [AC](AC.md) hanno peso di `1,5` punti/voto e hanno diritto di veto su ogni votazione (annullando completamente la votazione)
 #### Veto su veto
 Se 2/4 GI sono in disaccordo sull'approvare o no una decisione, si può vetare il veto, sospendendo il voto e richiedendo la decisione di un altro GI, in caso di pareggio la decisione rimane sospesa fino ad uno spareggio.
-Il proprietario in carica di tutto il progetto ha il diritto di bloccare le votazioni, e nessuno può sbloccarle oltre a lui.
+
+Il proprietario in carica di tutto il progetto ha il diritto di bloccare le votazioni, e nessuno può sbloccarle oltre a lui, ad eccezione delle votazioni per rimuovere a lui dal ruolo di proprietario in carica.
 ## Inquisitore
 Attualmente (05-06-2024) sono inquisitori:
 - Simone
@@ -38,6 +39,6 @@ Attualmente (18/06/2024) i proprietari sono:
 - Minecraft: PACIOCS
 - Roblox: Steoo
 - RaD: Bl4ckdestinyXX
-- Entertainment: Da trovare
+- Entertainment: Scrafta
 ### Potere nelle votazioni
 Nelle votazioni del [AC](AC.md) hanno peso di `1,0` punti/voto.
