@@ -11,7 +11,7 @@ Prendiamo solo i dati richiesti dai nostri servizi per funzionare, essi includon
     1. Token di accesso (OAuth2)
     2. ID (identificatori di altre applicazioni)
 
-> ⚠️ Puoi provare a richiedere l'eliminazione dei tuoi dati contattandoci, rivederemo la richiesta e se possibile la approveremo. La richiesta può non essere approvata in caso di sospensione dell'account o di una inquisizione attiva da parte degli Affari Interni
+> ⚠️ Puoi provare a richiedere l'eliminazione dei tuoi dati contattandoci, rivederemo la richiesta e se possibile la approveremo. La richiesta può essere sospesa in caso di inchiesta attiva da parte degli Affari Interni, la richiesta verrà adempita al termine dell'inchiesta.
 # Community
 Tutte i contenuti delle persone, trasmessi tramite il nostro network nelle sue parti pubbliche, possono essere salvati (da noi e dagli utenti) e caricati su altre piattaforme (da noi; *NON dagli utenti*).
 Le parti pubbliche del nostro network includono:
