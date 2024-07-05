@@ -1,7 +1,7 @@
 > Avvertenza: Questa pagina è dedicata ad un'idea per un progetto ancora in fase di sviluppo, pertanto sia l'idea che il risultato finale possono essere modificati o scartati in qualsiasi momento.
 
 Internet Avatar è stato pensato come un sistema per riunire molteplici account.
-Ogni account richiede per la creazione solo un nome utente, una password e un [identificatore (IDF)](#Gli%20Identificatori%20(IDF)). Dentro l'account sono salvati un *ID unico*, [applicazioni](#Applicazioni), [il numero di crediti](#I%20Crediti), gli atti di moderazione, [i permessi](#i%20permessi) e [una pagina dedicata](#Le%20Pagine).
+Ogni account richiede per la creazione solo un nome utente, una password e un [identificatore (IDF)](#Gli%20Identificatori%20(IDF)). Dentro l'account sono salvati un *ID unico*, [applicazioni](#Applicazioni), [il numero di crediti](#I%20Crediti), [la Fedina Penale](#La%20Fedina%20Penale), [i permessi](#i%20permessi) e [una pagina dedicata](#Le%20Pagine).
 # Gli Identificatori (IDF)
 Gli identificatori sono semplici dati di accesso, come per esempio una mail, un numero di telefono, un ID discord...
 Normalmente la trasmissione avviene sotto questa forma: `TYPE:VALUE`, dove abbiamo come value il vero e proprio IDF, mentre come type uno di quelli sottostanti:
@@ -26,6 +26,19 @@ E' possibile utilizzare i crediti nelle seguenti maniere:
 ## API
 L'**accesso in lettura** ai crediti sarà pubblico.
 L'**accesso in modifica** ai crediti sarà accessibile a qualsiasi sviluppatore verificato, che potrà utilizzarlo senza pagare in qualsiasi app o prodotto. *Possono essere applicate tariffe percentuali sulle transazioni di app terze*.
+# La Fedina Penale
+La fedina penale è la lista di tutti gli atti di moderazione eseguiti sull'utente.
+Gli atti saranno divisi in **verificati** e **non verificati**.
+Quelli **verificati** saranno visibili in cima alla lista di tutti gli atti. Sono quegli atti con prove sufficienti (inviate) da poter essere verificati da una commissione esterna.
+Quelli **non verificati** saranno visibili sotto a quelli verificati.
+
+I moderatori di un gruppo possono abilitare gli avvisi all'ingresso, in cui si riceve una notifica se un utente con *"la fedina penale sporca"* entra nella comunità. Si può scegliere se abilitarla solo per gli atti verificati o anche per quelli non verificati.
+
+I gestori della community possono decidere di abilitare [le liste di proscrizione](#Le%20liste%20di%20proscrizione), per cui, se un utente è stato aggiunto, non può entrare nella comunità.
+## La verifica
+La verifica degli atti di moderazione verrà eseguita dai moderatori di TN e dei partner, dopo la verifica si riceverà una notifica che avvisa l'utente segnalatore e l'utente segnalato.
+
+L'utente segnalatore potrà inviare la richiesta per aggiungere l'utente segnalato alle liste di proscrizione tramite la notifica della verifica. In questo caso l'atto verrà ri-verificato da 3 moderatori **diversi** da quello iniziale, randomici e anonimi.
 # Applicazioni
 Gli sviluppatori verificati potranno registrare applicazioni, ogni applicazione avrà l'accesso a:
 - [I Permessi](#I%20Permessi)
@@ -40,8 +53,17 @@ Ogni account IA potrà registrare una o più comunità, ogni comunità potrà:
 - avere un conto per i [crediti](#I%20Crediti) dedicato alla comunità.
 - registrare [Applicazioni](#Applicazioni) alla sua comunità
 - [una pagina dedicata](#Le%20Pagine)
+- le [liste di proscrizione](#Le%20liste%20di%20proscrizione)
 # Le Pagine
 Il layout della pagina sarà un template, ogni pagina potrà essere personalizzata con una descrizione e un titolo. Potranno essere create sotto-pagine e nella pagina principale può essere abilitato un blog.
 ## Il blog
 Il blog potrà essere utilizzato normalmente per inviare testi o contenuti multimediali. Inoltre si potrà abilitare l'importazione automatica da i social che lo supportano, mostrando così post su youtube, x, ecc.
 Ogni post, importato e non, potrà essere messo pubblico, non in elenco o privato (per aggiungere una persona si potrà registrare un permesso specifico).
+## Le liste di proscrizione
+Sono liste di utenti che hanno commesso atti gravi contro la comunità.
+Le liste sono facoltative, e se abilitate si possono usare sia espellendo l'utente dalla comunità che mettendolo in quarantena.
+Ogni server può sovrascrivere le liste annullando l'atto di una persona, permettendogli così la permanenza.
+
+La verifica della causa per cui l'utente è stato aggiunto alla lista di proscrizione sarà effettuata da 3 moderatori di TN o partner, diversi dal moderatore della prima [verifica](#La%20verifica).
+
+E' garantita la possibilità di fare 3 appelli per lo stesso provvedimento.
