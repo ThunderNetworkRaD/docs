@@ -13,7 +13,7 @@ Attualmente (05-06-2024) sono GI:
 - Strawdig530
 - Lumel88
 
-Il suo compito è quello di coordinare tutti i gruppi e le branche in modo da creare un ecosistema che si sostenta da solo. Ha incarichi di gestione dello staff e dei bilanci, ha potere pressochè assoluto ma per le decisioni importanti deve fare riferimento all'[AC](AC.md).
+Il suo compito è quello di coordinare tutti i gruppi e le branche in modo da creare un ecosistema che si sostiene da solo. Ha incarichi di gestione dello staff e dei bilanci, ha potere quasi assoluto ma per le decisioni importanti deve fare riferimento all'[AC](AC.md).
 ### Elezioni
 Ci sono 2 modi per far salire un GI al potere, tramite votazione del [AC](AC.md) (Max 1) o ~~tramite votazione pubblica (da parte di tutti gli utenti) (Max 1)~~ (#).
 I GI possono essere rimossi tramite votazione del [AC](AC.md), ~~quelli eletti anche dopo lo scadere del mandato~~ (#).
@@ -36,7 +36,7 @@ Nelle votazioni del [AC](AC.md) hanno peso di `1,1` punti/voto.
 ## Proprietario
 Attualmente (18/06/2024) i proprietari sono:
 - Community: M1
-- RaD: Bl4ckdestinyXX
+- RaD: In Ricerca
 - Entertainment: Scrafta
 - Minecraft: PACIOCS
 - Roblox: Steoo
