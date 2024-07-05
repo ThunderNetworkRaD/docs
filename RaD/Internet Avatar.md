@@ -13,13 +13,13 @@ Normalmente la trasmissione avviene sotto questa forma: `TYPE:VALUE`, dove abbia
 
 # I Crediti
 Salvati come numero dentro ogni account, l'idea dei crediti è creare una valuta virtuale facile e veloce da utilizzare.
-Il valore è stato pensato come circa `1000 crediti = 1 euro` in maniera da facilitarne la vendita.
+Il valore è stato pensato come circa `1000 crediti = 1 euro` facilitandone la vendita.
 ## L'acquisizione
-E' possibile acquisire crediti nelle seguenti maniere:
+E' possibile acquisire crediti nei seguenti modi:
 - Pagare il rispettivo prezzo a Thunder Network o a un Authorized Credit Creator.
 - Svolgere missioni da TN o da uno dei partner.
 ## L'utilizzo
-E' possibile utilizzare i crediti nelle seguenti maniere:
+E' possibile utilizzare i crediti nelle seguenti modi:
 - Pagare un altro utente
 - Pagare un oggetto in uno store digitale che supporta i crediti
 - Acquisti in-app
@@ -46,7 +46,7 @@ Gli sviluppatori verificati potranno registrare applicazioni, ogni applicazione 
 - [una pagina dedicata](#Le%20Pagine)
 ## I Permessi
 Per semplificare la vita ai creatori di comunità e gruppi, abbiamo scelto di inserire dentro Internet Avatar un sistema di permessi.
-Ogni sviluppatore verificato potrà decidere di aggiungere dei permessi in stile `minecraft.ban`, questo sistema è stato creato in maniera che `minecraft.ban` includa tutti i sotto-permessi come `minecraft.ban.perm`, `minecraft.ban.temp`, `minecraft.ban.remove` ...
+Ogni sviluppatore verificato potrà decidere di aggiungere dei permessi in stile `minecraft.ban`, questo sistema è stato creato  facendo che `minecraft.ban` includa tutti i sotto-permessi, come `minecraft.ban.perm`, `minecraft.ban.temp`, `minecraft.ban.remove` ...
 # Gruppi / Comunità
 Ogni account IA potrà registrare una o più comunità, ogni comunità potrà:
 - registrare i [permessi](#I%20Permessi) ai suoi utenti
