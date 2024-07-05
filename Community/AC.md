@@ -7,7 +7,7 @@ Il consiglio di amministrazione ha il potere decisionale su tutto (ad eccezione 
 Ha il dovere di cercare e scegliere una persona che funga da **proprietario** per ogni branca del gruppo.
 # Ruoli
 ## Grand Inquisitore
-I detentori di questo ruolo possono essere 3 o 5 (leggi [Veto su veto](#Veto%20su%20veto)).
+I detentori di questo ruolo possono essere 3 o 5 (leggi [veto su veto](#Veto%20su%20veto)).
 Attualmente (05-06-2024) sono GI:
 - KillerBossOriginal
 - Strawdig530
@@ -38,7 +38,7 @@ Attualmente (18/06/2024) i proprietari sono:
 - Community: M1
 - RaD: In Ricerca
 - Entertainment: Scrafta
-- Minecraft: PACIOCS
+- Minecraft: ricky006__
 - Roblox: Steoo
 ### Potere nelle votazioni
 Nelle votazioni del [AC](AC.md) hanno peso di `1,0` punti/voto.
