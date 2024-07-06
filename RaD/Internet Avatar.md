@@ -44,9 +44,15 @@ Gli sviluppatori verificati potranno registrare applicazioni, ogni applicazione 
 - [I Permessi](#I%20Permessi)
 - [I Crediti](#I%20Crediti) con "banca" dedicata all'applicazione
 - [una pagina dedicata](#Le%20Pagine)
-## I Permessi
+# I Permessi
 Per semplificare la vita ai creatori di comunità e gruppi, abbiamo scelto di inserire dentro Internet Avatar un sistema di permessi.
 Ogni sviluppatore verificato potrà decidere di aggiungere dei permessi in stile `minecraft.ban`, questo sistema è stato creato  facendo che `minecraft.ban` includa tutti i sotto-permessi, come `minecraft.ban.perm`, `minecraft.ban.temp`, `minecraft.ban.remove` ...
+## Permessi degli utenti
+
+| Permesso    | Descrizione                                                         |
+| ----------- | ------------------------------------------------------------------- |
+| `user.<id>` | Permette di essere un utente e di modificare l'utente con id `<id>` |
+
 # Gruppi / Comunità
 Ogni account IA potrà registrare una o più comunità, ogni comunità potrà:
 - registrare i [permessi](#I%20Permessi) ai suoi utenti
