@@ -1,7 +1,7 @@
 > Avvertenza: Questa pagina è dedicata ad un'idea per un progetto ancora in fase di sviluppo, pertanto sia l'idea che il risultato finale possono essere modificati o scartati in qualsiasi momento.
 
 Internet Avatar è stato pensato come un sistema per riunire molteplici account.
-Ogni account richiede per la creazione solo un nome utente, una password e un [identificatore (IDF)](#Gli%20Identificatori%20(IDF)). Dentro l'account sono salvati un *ID unico*, [applicazioni](#Applicazioni), [il numero di crediti](#I%20Crediti), [la Fedina Penale](#La%20Fedina%20Penale), [i permessi](#i%20permessi) e [una pagina dedicata](#Le%20Pagine).
+Ogni account richiede per la creazione solo un nome utente, una password e un [identificatore (IDF)](#Gli%20Identificatori%20(IDF)). Dentro l'account sono salvati un *ID unico*, [applicazioni](#Applicazioni), [il numero di crediti](#I%20Crediti), [la Fedina Penale](#La%20Fedina%20Penale), [i permessi](#i%20permessi), [una pagina dedicata](#Le%20Pagine) e i [token](#I%20token).
 # Gli Identificatori (IDF)
 Gli identificatori sono semplici dati di accesso, come per esempio una mail, un numero di telefono, un ID discord...
 Normalmente la trasmissione avviene sotto questa forma: `TYPE:VALUE`, dove abbiamo come value il vero e proprio IDF, mentre come type uno di quelli sottostanti:
@@ -63,7 +63,13 @@ Ogni sviluppatore verificato potrà decidere di aggiungere dei permessi in stile
 | `.create` | Permette di creare un utente      |
 | `.delete` | Permette di eliminare un utente   |
 
-
+# I token
+Esistono due tipi di token, [i token API](#I%20token%20API) e [i token di sessione](#I%20token%20di%20sessione).
+## I token API
+I token API sono codici univoci di 64 caratteri con permessi personalizzati che possono essere generati manualmente, il loro scopo è l'accesso agli endpoint dell'API.
+## I token di sessione
+I token di sessione sono codici univoci di 128 caratteri generati automaticamente durante un log-in. Hanno tutti i permessi che l'utente possiede ma hanno una durata limitata, personalizzabile durante il log-in.
+Tra i loro principali scopi c'è la creazione de[i token API](#I%20token%20API)
 # Gruppi / Comunità
 Ogni account IA potrà registrare una o più comunità, ogni comunità potrà:
 - registrare i [permessi](#I%20Permessi) ai suoi utenti
