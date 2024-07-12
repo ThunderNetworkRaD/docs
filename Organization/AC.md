@@ -35,7 +35,7 @@ Gli inquisitori sono eletti esclusivamente tramite votazione del [AC](AC.md) e p
 Nelle votazioni del [AC](AC.md) hanno peso di `1,1` punti/voto.
 ## Proprietario
 Attualmente (12/07/2024) i proprietari sono:
-- Community: In Ricerca
+- Community: left0ver_
 - RaD: In Ricerca
 - Entertainment: In Ricerca
 - Studios: ricky006__
