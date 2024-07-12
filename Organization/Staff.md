@@ -28,7 +28,7 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 ## Ruoli condivisi tra le piattaforme
 - **AC** (Administration Council)
 > Chi prende le decisioni importanti.
-- **Grand Inquisitor**
+- **Grand Inquisitor** (Max 3)
 > Delegato che presiede l'AC
 - **Inquisitor**
 > Organo esecutivo, sotto il comando dei Grand Inquisitor e dell'AC e ne fa parte.
@@ -36,7 +36,7 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 ## Ruoli non condivisi tra le piattaforme
 ### Condivisi tra i progetti
 - **Proprietario** ("Owner", Max 1)
-> Fa parte dell' <@&835429315008659476>
+> Fa parte dell'Administration Council
 > È il proprietario, con potere assoluto sulla branca di cui è owner.
 - **Co-Proprietario** ("Co Owner", Max 5)
 > Aiuta  il proprietario, ma ne risponde all'owner
