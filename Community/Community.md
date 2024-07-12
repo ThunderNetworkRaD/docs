@@ -1,7 +1,0 @@
-- [Rules](Rules.md)
-- [AC](AC.md)
-- [Staff](Staff.md)
-- [Termini di Servizio](Terms%20of%20Service.md)
-- [Privacy Policy](Privacy%20Policy.md)
-- [Payment Policy](Payment%20Policy.md)
-- [Intellectual Property Policy](Intellectual%20Property%20Policy.md)

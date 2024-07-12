@@ -34,14 +34,16 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Organo esecutivo, sotto il comando dei Grand Inquisitor e dell'AC e ne fa parte.
 > Ha un potere decisionale ridotto
 ## Ruoli non condivisi tra le piattaforme
-### Community
-- **Proprietario** ("Owner")
+### Condivisi tra i progetti
+- **Proprietario** ("Owner", Max 1)
 > Fa parte dell' <@&835429315008659476>
-> È il proprietario, con potere assoluto sulla piattaforma di cui è owner.
-- **Co-Proprietario** ("Co Owner")
-> Ha potere assoluto, ma ne risponde all'owner
-- **Supervisore** ("Supervisor")
-> Gestisce i manager e gli admin, aiuta Owner s e Co Owner.
+> È il proprietario, con potere assoluto sulla branca di cui è owner.
+- **Co-Proprietario** ("Co Owner", Max 5)
+> Aiuta  il proprietario, ma ne risponde all'owner
+### Non condivisi tra i progetti
+#### Community
+- **Supervisore** ("Supervisor", Max 1)
+> Gestisce il progetto di cui è supervisor.
 - **Manager**
 > Gestisce le entrate e le uscite dallo staff, gestisce i membri dello staff di livello inferiore.
 - **Amministratore** ("Admin")
@@ -50,7 +52,7 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Il compito è di moderare le chat, controllare che gli utenti non faccino qualcosa contro le regole.
 - **Aiutante** ("Helper")
 > Aiuta a mantenere attiva la chat, segnala ai moderatori le azioni illecite, aiuta il resto dello staff se richiesto.
-### Minecraft
+#### Minecraft
 - **Capo dei Costruttori** ("Chief of Builders")
 > Gestisce le costruzioni e le rilascia poi per il pubblico. Assegna gli incarichi per i Builder.
 - **Costruttore** ("Builder") 
@@ -61,9 +63,7 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Crea la logica.
 - **Moderazione** ("Moderation") 
 > Modera gli utenti.
-### Entertainment
-- **Supervisore** ("Supervisor")
-> Supervisiona e gestisce tutti i progetti di intrattenimento.
+#### Entertainment
 - **Manager**
 > Gestisce i canali social.
 - **Animatore** ("Animator")
@@ -74,3 +74,4 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Crea grafiche e immagini.
 - **Partner Video** ("Video Partner")
 > E' un partner verificato, alcune sue creazioni vengono ripubblicate o ritrasmesse.
+#### Studios

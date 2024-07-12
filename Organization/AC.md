@@ -25,8 +25,8 @@ Se 2/4 GI sono in disaccordo sull'approvare o no una decisione, si può vetare i
 
 Il proprietario in carica di tutto il progetto ha il diritto di bloccare le votazioni, e nessuno può sbloccarle oltre a lui, ad eccezione delle votazioni per rimuovere a lui dal ruolo di proprietario in carica.
 ## Inquisitore
-Attualmente (05-06-2024) sono inquisitori:
-- Simone
+Attualmente (12-07-2024) sono inquisitori:
+- Nessuno
 
 Il suo compito è di aiutare il [Grand Inquisitore](#Grand%20Inquisitore) a far collaborare le branche e i gruppi, fare report sul loro funzionamento.
 ### Elezioni
@@ -34,11 +34,10 @@ Gli inquisitori sono eletti esclusivamente tramite votazione del [AC](AC.md) e p
 ### Potere nelle votazioni
 Nelle votazioni del [AC](AC.md) hanno peso di `1,1` punti/voto.
 ## Proprietario
-Attualmente (18/06/2024) i proprietari sono:
-- Community: M1
+Attualmente (12/07/2024) i proprietari sono:
+- Community: In Ricerca
 - RaD: In Ricerca
-- Entertainment: Scrafta
-- Minecraft: ricky006__
-- Roblox: Steoo
+- Entertainment: In Ricerca
+- Studios: ricky006__
 ### Potere nelle votazioni
 Nelle votazioni del [AC](AC.md) hanno peso di `1,0` punti/voto.
