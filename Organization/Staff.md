@@ -17,10 +17,7 @@ Sono al corrente che richiedendo le dimissioni i dati verranno trattati seguendo
 ```
 Come `<nome progetto>` inserire uno dei seguenti:
 - `TN` se si desidera dare le dimissioni totali
-- `Discord`
-- `Minecraft`
-- `RaD`
-- `Entertainment`
+- Cercare in [Organization](Organization.md) il nome del progetto.
 
 La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissioni non verranno accettate. La persona se accetta dovrà decidere se "prendere il ruolo assieme al suo" o "abbandonare il suo e prendere quello nuovo".
 # Ruoli
@@ -52,7 +49,10 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Il compito è di moderare le chat, controllare che gli utenti non faccino qualcosa contro le regole.
 - **Aiutante** ("Helper")
 > Aiuta a mantenere attiva la chat, segnala ai moderatori le azioni illecite, aiuta il resto dello staff se richiesto.
-#### Minecraft
+#### Studios
+- **Supervisore** ("Supervisor", Max 1)
+> Gestisce il progetto di cui è supervisor.
+##### Minecraft
 - **Capo dei Costruttori** ("Chief of Builders")
 > Gestisce le costruzioni e le rilascia poi per il pubblico. Assegna gli incarichi per i Builder.
 - **Costruttore** ("Builder") 
@@ -64,6 +64,8 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 - **Moderazione** ("Moderation") 
 > Modera gli utenti.
 #### Entertainment
+- **Supervisore** ("Supervisor", Max 1)
+> Gestisce il progetto di cui è supervisor.
 - **Manager**
 > Gestisce i canali social.
 - **Animatore** ("Animator")
@@ -74,4 +76,12 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Crea grafiche e immagini.
 - **Partner Video** ("Video Partner")
 > E' un partner verificato, alcune sue creazioni vengono ripubblicate o ritrasmesse.
-#### Studios
+#### RaD
+- **Supervisore** ("Supervisor", Max 1)
+> Gestisce il progetto di cui è supervisor.
+- **Sviluppatore** ("Developer")
+> Sviluppa i prodotti.
+- **Sviluppatore Esterno** ("External Developer")
+> Frutto di una collaborazione, non lavora per noi ma è inviato ad aiutare gli sviluppatori.
+- **Consulente** ("Advisor")
+> Aiuta a sviluppare i prodotti tramite revisioni e consigli.
