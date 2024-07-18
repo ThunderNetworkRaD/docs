@@ -8,7 +8,7 @@ Ha il dovere di cercare e scegliere una persona che funga da **proprietario** pe
 # Ruoli
 ## Grand Inquisitore
 I detentori di questo ruolo possono essere 3 o 5 (leggi [veto su veto](#Veto%20su%20veto)).
-Attualmente (05-06-2024) sono GI:
+Attualmente (18-07-2024) sono GI:
 - KillerBossOriginal
 - Strawdig530
 - Lumel88
@@ -25,7 +25,7 @@ Se 2/4 GI sono in disaccordo sull'approvare o no una decisione, si può vetare i
 
 Il proprietario in carica di tutto il progetto ha il diritto di bloccare le votazioni, e nessuno può sbloccarle oltre a lui, ad eccezione delle votazioni per rimuovere a lui dal ruolo di proprietario in carica.
 ## Inquisitore
-Attualmente (12-07-2024) sono inquisitori:
+Attualmente (18-07-2024) sono inquisitori:
 - Nessuno
 
 Il suo compito è di aiutare il [Grand Inquisitore](#Grand%20Inquisitore) a far collaborare le branche e i gruppi, fare report sul loro funzionamento.
