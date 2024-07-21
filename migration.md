@@ -1,3 +1,4 @@
+- [ ] Configurare IPv6
 - [ ] Configurare firewall
    - [ ] Tutte le porte chiuse tranne quelle usate da:
       - Pterodactyl
