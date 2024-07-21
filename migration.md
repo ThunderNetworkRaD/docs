@@ -16,6 +16,9 @@
    - [ ] Installare wings
    - [ ] Inserire i volumes
 - [ ] Installare sonatype nexus tramite docker: [aiuto](https://www.sonatype.com/blog/sonatype-nexus-installation-using-docker) ; come docker image usa sonatype/nexus3
-- [ ] Migrare Mail server. Al posto che postfix e dovecot usa [wildduck](https://github.com/nodemailer/wildduck-dockerized)
+   - [ ] KILLER - Settare repository NPM
+   - [ ] KILLER - Settare repository Maven
+   - [ ] KILLER - Rimuovere repository non usate
+- [ ] KILLER - Migrare Mail server. Al posto che postfix e dovecot usa [wildduck](https://github.com/nodemailer/wildduck-dockerized)
    - [ ] Migrare i DNS
 - [ ] Installa webmin (se non c'è di default)
