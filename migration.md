@@ -22,3 +22,4 @@
 - [ ] KILLER - Migrare Mail server. Al posto che postfix e dovecot usa [wildduck](https://github.com/nodemailer/wildduck-dockerized)
    - [ ] Migrare i DNS
 - [ ] Installa webmin (se non c'è di default)
+- [ ] Creare file di SWAP da 10 gb
