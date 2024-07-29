@@ -6,24 +6,26 @@ Ogni divisione è chiamata **branca**, gestita da un proprietario; le branche so
 - Studios
 Una lista dei proprietari è trovabile anche in [AC](AC.md).
 # Branche
-Ogni branca è divisa in progetti, gestiti da un supervisore.
+Ogni branca è gestita da un proprietario ("Owner") ed è suddivisa in progetti gestiti a loro volta da un supervisore.
 Questa è una lista dei progetti aperti per ogni branca.
-1. RaD
+1. RaD - KillerBossOriginal
 	1. Sito web dell'organizzazione
-	2. Internet Avatar (AKA InAv, [leggi di più](../RaD/Internet%20Avatar.md))
-	3. API
-	4. MR.Handy
-	5. Fleyd
-2. Entertainment
+	2. API
+	3. Internet Avatar (AKA InAv, [leggi di più](../RaD/Internet%20Avatar.md))
+	4. Livetar - Alecs ([leggi di più](../RaD/Livetar.md))
+	6. MR.Handy
+	7. Fleyd
+2. Entertainment - Lumel88
 	1. TV Channel
 	2. Radio Channel
 	3. Podcast: Notti Magiche
-3. Community
-	1. Discord
+	4. Podcast: ThunderTalk - Simone
+3. Community - LeftOver
+	1. Discord - M1
 	2. Telegram
-4. Studios
+4. Studios - Ricky006
 	1. Minecraft
-	2. Roblox
+	2. Roblox - Steooo
 # Documenti utili
 - [Rules](Rules.md)
 - [AC](AC.md)

@@ -1,5 +1,10 @@
 > Avvertenza: Questa pagina è dedicata ad un'idea per un progetto ancora in fase di sviluppo, pertanto sia l'idea che il risultato finale possono essere modificati o scartati in qualsiasi momento.
 
+Livetar sarà il primo social game al mondo, con interazioni in tempo reale tra i giocatori.
+Ci saranno 3 ruoli, un pilota, uno spettatore e un vettore.
+Il pilota pagherà per una sessione di un tempo stabilito, in cui il vettore dovrà fare qualsiasi cosa che il pilota gli dirà, il pilota sarà solo bloccato dalle policies scelte dall'utente, quelle del sito e le leggi vigenti.
+Lo spettatore può connettersi e guardare.
+
 Livetar è un progetto nato con l'idea di creare un ambiente nuovo in cui ci sarà la possibilità di guadagnare divertendosi.
 All'ingresso l'utente decide di unirsi come:
 - pilota
@@ -15,7 +20,7 @@ Il vettore sarà in grado di scegliere le sue policies e accettare o negare il p
 - **Inattività massima** nel controllo della telecamera degli spettatori
 - **Limiti** nelle cose che possono essere fatte (paure, etc)
 - **Professione e hobby** rilevanti (es: paracadutista)
-# Il pilota e il spettatore
+# Il pilota e lo spettatore
 Entrambi si collegano a un vettore, pagando la somma richiesta dall'utente.
 ## Cose differenti
 ### Il pilota
@@ -45,12 +50,18 @@ Per rendere Livetar un posto sicuro segnaleremo qualsiasi trasgressione di leggi
 ## Policies Enforcement
 Per rendere i vettori ubbidienti, essi verranno pagati dai piloti. Al termine di una chiamata infatti i piloti dovranno esprimere la loro soddisfazione del vettore, in questo momento il pilota può scegliere se bloccare il pagamento perché il vettore non ha seguito le cose richieste. La registrazione della chiamata verrà inviata a un gruppo di moderatori, i quali verificheranno tutta la registrazione e decideranno se rimborsare il pilota o pagare il vettore. In tutti i casi una somma verrà trattenuta
 # Hardware
-Gli hardware venduti direttamente da noi offriranno un boost nelle visuallizzazioni degli account e nella loro ricerca.
+Gli hardware venduti direttamente da noi offriranno un boost nelle visualizzazioni degli account e nella loro ricerca.
 ## Telecamera 360
-La telecamerà 360 sarà una telecamera prevista di 2 motorini, i quali le permetteranno di muoversi di 360 gradi. Essa sarà montata sopra un casco.
+La telecamera 360 sarà una telecamera prevista di 2 motorini, i quali le permetteranno di muoversi di 360 gradi. Essa sarà montata sopra un casco.
 ## VR
 Il visore per la realtà virtuale sarà un comune visore, privo di controller. Permetterà il controllo remoto delle [Telecamere 360](#Telecamera%20360) con il solo movimento del capo.
 ## Pettorina
 La pettorina sarà una semplice pettorina con un posto per il telefono dentro. Essa sarà utile per evitare l'ostruzione di una mano e evitare distrazioni.
-## Gancio al vetro
+## Ventosa al vetro
 Questo accessorio permetterà di agganciare il telefono a veicoli e veivoli. Sarà obbligatorio selezionando come professione o hobby "pilota" di qualsiasi tipo.
+# Esempi di utilizzo
+1. Esplorare posti mai visti🧭
+2. Andare a fare la spesa🛍️
+3. Fare lavoretti🧑‍🔧
+4. +18🔞
+Ma l'unico limite è l'immaginazione!

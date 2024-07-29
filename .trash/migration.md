@@ -1,0 +1,25 @@
+- [ ] Configurare IPv6
+- [ ] Configurare firewall
+   - [ ] Tutte le porte chiuse tranne quelle usate da:
+      - Pterodactyl
+      - SSH
+      - Webmin
+      - Nexus
+      - Email
+- [ ] Migare intero database
+- [ ] Migrare i DNS
+   - [ ] Fai in modo che node1.- punti al nuovo indirizzo IP
+   - [ ] Tutti gli altri record devono essere CNAME a node1.-
+- [ ] Migrare pterodactyl: [aiuto](https://gist.github.com/Software-Noob/c18258658bef28e73b24d11d02d24915?permalink_comment_id=4940946)
+   - [ ] Migrare database
+   - [ ] Migrare .env
+   - [ ] Installare wings
+   - [ ] Inserire i volumes
+- [ ] Installare sonatype nexus tramite docker: [aiuto](https://www.sonatype.com/blog/sonatype-nexus-installation-using-docker) ; come docker image usa sonatype/nexus3
+   - [ ] KILLER - Settare repository NPM
+   - [ ] KILLER - Settare repository Maven
+   - [ ] KILLER - Rimuovere repository non usate
+- [ ] KILLER - Migrare Mail server. Al posto che postfix e dovecot usa [wildduck](https://github.com/nodemailer/wildduck-dockerized)
+   - [ ] Migrare i DNS
+- [ ] Installa webmin (se non c'è di default)
+- [ ] Creare file di SWAP da 10 gb
