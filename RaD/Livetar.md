@@ -64,4 +64,5 @@ Questo accessorio permetterà di agganciare il telefono a veicoli e veivoli. Sar
 2. Andare a fare la spesa🛍️
 3. Fare lavoretti🧑‍🔧
 4. +18🔞
+
 Ma l'unico limite è l'immaginazione!
