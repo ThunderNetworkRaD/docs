@@ -34,3 +34,4 @@ Questa è una lista dei progetti aperti per ogni branca.
 - [Privacy Policy](Privacy%20Policy.md)
 - [Payment Policy](Payment%20Policy.md)
 - [Intellectual Property Policy](Intellectual%20Property%20Policy.md)
+- [History](History.md)
