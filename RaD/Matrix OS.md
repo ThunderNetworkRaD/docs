@@ -2,7 +2,8 @@
 
 Funzionalità:
 - overlay fs
-	- immutabilità livello basso
+	- immutabilità - livello inferiore
 
 Stack:
-- Wayland
+- Wayland/XOrg
+- Tauri
