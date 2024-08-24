@@ -23,23 +23,26 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 # Ruoli
 # Gerarchia e descrizione dei ruoli
 ## Ruoli condivisi tra le piattaforme
-- **AC** (Administration Council)
+### Administration Council
 > Chi prende le decisioni importanti.
 - **Grand Inquisitor** (Max 3)
 > Delegato che presiede l'AC
 - **Inquisitor**
 > Organo esecutivo, sotto il comando dei Grand Inquisitor e dell'AC e ne fa parte.
 > Ha un potere decisionale ridotto
+### Affairs
+- Internal Affairs
+> Eseguono controlli a campione su tutto lo staff sotto l'AC, approvano gli atti di moderazione permanenti (sospensioni, etc), revisionano gli appelli.
+- External Affairs
+> Eseguono controlli sui partner, gestiscono le collaborazioni e le partner. Gestiscono i canali social.
 ## Ruoli non condivisi tra le piattaforme
 ### Condivisi tra i progetti
-- **Proprietario** ("Owner", Max 1)
+- **Proprietario** ("Owner")
 > Fa parte dell'Administration Council
 > È il proprietario, con potere assoluto sulla branca di cui è owner.
-- **Co-Proprietario** ("Co Owner", Max 5)
-> Aiuta  il proprietario, ma ne risponde all'owner
 ### Non condivisi tra i progetti
 #### Community
-- **Supervisore** ("Supervisor", Max 1)
+- **Supervisore** ("Supervisor")
 > Gestisce il progetto di cui è supervisor.
 - **Manager**
 > Gestisce le entrate e le uscite dallo staff, gestisce i membri dello staff di livello inferiore.
@@ -50,7 +53,7 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 - **Aiutante** ("Helper")
 > Aiuta a mantenere attiva la chat, segnala ai moderatori le azioni illecite, aiuta il resto dello staff se richiesto.
 #### Studios
-- **Supervisore** ("Supervisor", Max 1)
+- **Supervisore** ("Supervisor")
 > Gestisce il progetto di cui è supervisor.
 ##### Minecraft
 - **Capo dei Costruttori** ("Chief of Builders")
@@ -61,10 +64,8 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 > Gestisce gli sviluppatori. Assegna gli incarichi per i Developer.
 - **Sviluppatore** ("Developer")  
 > Crea la logica.
-- **Moderazione** ("Moderation") 
-> Modera gli utenti.
 #### Entertainment
-- **Supervisore** ("Supervisor", Max 1)
+- **Supervisore** ("Supervisor")
 > Gestisce il progetto di cui è supervisor.
 - **Manager**
 > Gestisce i canali social.
@@ -75,9 +76,9 @@ La persona a cui cedete incarichi e ruolo deve approvare, altrimenti le dimissio
 - **Grafico** ("Graphic")
 > Crea grafiche e immagini.
 - **Partner Video** ("Video Partner")
-> E' un partner verificato, alcune sue creazioni vengono ripubblicate o ritrasmesse.
+> E' un partner verificato, alcune sue creazioni vengono pubblicate o trasmesse sui nostri canali
 #### RaD
-- **Supervisore** ("Supervisor", Max 1)
+- **Supervisore** ("Supervisor")
 > Gestisce il progetto di cui è supervisor.
 - **Sviluppatore** ("Developer")
 > Sviluppa i prodotti.
