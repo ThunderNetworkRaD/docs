@@ -52,7 +52,7 @@ Per rendere i vettori ubbidienti, essi verranno pagati dai piloti. Al termine di
 # Hardware
 Gli hardware venduti direttamente da noi offriranno un boost nelle visualizzazioni degli account e nella loro ricerca.
 ## Telecamera 360
-La telecamera 360 sarà una telecamera prevista di 2 motorini, i quali le permetteranno di muoversi di 360 gradi. Essa sarà montata sopra un casco.
+La telecamera 360 sarà una telecamera prevista di 2 servomotori, i quali le permetteranno di muoversi di 360 gradi. Essa sarà montata sopra un casco.
 ## VR
 Il visore per la realtà virtuale sarà un comune visore, privo di controller. Permetterà il controllo remoto delle [Telecamere 360](#Telecamera%20360) con il solo movimento del capo.
 ## Pettorina
