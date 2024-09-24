@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"419304536f076e86","x":-221,"y":-260,"width":621,"height":560,"type":"group","label":"RTC server"},
+		{"id":"a7803b0862a1f515","x":580,"y":-260,"width":290,"height":480,"type":"group","label":"The Mind"},
+		{"id":"1c43a31197fd2a69","x":-201,"y":-240,"width":250,"height":149,"type":"text","text":"OnBoot:\n1. free calls\n2. ip\n3. port"},
+		{"id":"958532ea546381ce","x":-201,"y":-60,"width":250,"height":80,"type":"text","text":"OnShutdown:\n1. server id"},
+		{"id":"1c1ac361471ac053","x":-201,"y":200,"width":250,"height":80,"type":"text","text":"1. Active Calls\n2. Free Calls"},
+		{"id":"c15ab9e0f7127445","x":600,"y":-240,"width":250,"height":100,"type":"text","text":"Register:\n1. Server ID"},
+		{"id":"da0db2cb7e19674e","x":600,"y":20,"width":250,"height":60,"type":"text","text":"Unregister"},
+		{"id":"fca2795a08811eaa","x":600,"y":140,"width":250,"height":60,"type":"text","text":"Check"},
+		{"id":"6c621262c98cf116","x":120,"y":-50,"width":250,"height":60,"type":"text","text":"when calls number = 0"}
+	],
+	"edges":[
+		{"id":"91512bdb6cb49e3b","fromNode":"958532ea546381ce","fromSide":"right","toNode":"6c621262c98cf116","toSide":"left"},
+		{"id":"abdef0708ae316fa","fromNode":"6c621262c98cf116","fromSide":"right","toNode":"da0db2cb7e19674e","toSide":"left"},
+		{"id":"5860f49796b09a5f","fromNode":"fca2795a08811eaa","fromSide":"left","toNode":"1c1ac361471ac053","toSide":"top"},
+		{"id":"2b87944920ac3954","fromNode":"1c43a31197fd2a69","fromSide":"right","toNode":"c15ab9e0f7127445","toSide":"left"},
+		{"id":"40df38fa18b0b06c","fromNode":"c15ab9e0f7127445","fromSide":"left","toNode":"1c43a31197fd2a69","toSide":"top"},
+		{"id":"8f4c88ec129afe51","fromNode":"1c1ac361471ac053","fromSide":"right","toNode":"fca2795a08811eaa","toSide":"left"}
+	]
+}
